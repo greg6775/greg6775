@@ -1,3 +1,3 @@
-[![github stats](https://vercel-stats-omega.vercel.app/api?username=greg6775&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/greg6775)
+[![github stats](https://github-readme-stats-omega-olive-96.vercel.app/api?username=greg6775&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/greg6775) [![most used languages](https://github-readme-stats-omega-olive-96.vercel.app/api/top-langs/?username=greg6775&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/greg6775)
 
-[![most used languages](https://vercel-stats-omega.vercel.app/api/top-langs/?username=greg6775&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/greg6775)
+[![wakapi stats](https://github-readme-stats-omega-olive-96.vercel.app/api/wakatime?username=greg&api_domain=w.mgp.sh&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)](https://github.com/greg6775)
